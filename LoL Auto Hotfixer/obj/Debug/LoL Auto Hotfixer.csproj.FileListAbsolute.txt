@@ -1,0 +1,9 @@
+C:\Users\Yasin\source\repos\LoL Auto Hotfixer\LoL Auto Hotfixer\bin\Debug\LoL Auto Hotfixer.exe.config
+C:\Users\Yasin\source\repos\LoL Auto Hotfixer\LoL Auto Hotfixer\bin\Debug\LoL Auto Hotfixer.exe
+C:\Users\Yasin\source\repos\LoL Auto Hotfixer\LoL Auto Hotfixer\bin\Debug\LoL Auto Hotfixer.pdb
+C:\Users\Yasin\source\repos\LoL Auto Hotfixer\LoL Auto Hotfixer\obj\Debug\LoL_Auto_Hotfixer.Hotfix.resources
+C:\Users\Yasin\source\repos\LoL Auto Hotfixer\LoL Auto Hotfixer\obj\Debug\LoL_Auto_Hotfixer.Properties.Resources.resources
+C:\Users\Yasin\source\repos\LoL Auto Hotfixer\LoL Auto Hotfixer\obj\Debug\LoL Auto Hotfixer.csproj.GenerateResource.cache
+C:\Users\Yasin\source\repos\LoL Auto Hotfixer\LoL Auto Hotfixer\obj\Debug\LoL Auto Hotfixer.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\source\repos\LoL Auto Hotfixer\LoL Auto Hotfixer\obj\Debug\LoL Auto Hotfixer.exe
+C:\Users\Yasin\source\repos\LoL Auto Hotfixer\LoL Auto Hotfixer\obj\Debug\LoL Auto Hotfixer.pdb
